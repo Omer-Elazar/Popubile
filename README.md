@@ -6,7 +6,7 @@ https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb
 
 # # Tabel of contents
 # 
-<a href="https://nbviewer.org/format/script/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#abstract">Introduction</a>
+<a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#abstract">Introduction</a>
 # ### [Abstract](#abstract)
 # 
 # ### [Importing Libraries](#ImportingLibraries)

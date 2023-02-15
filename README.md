@@ -1,8 +1,8 @@
-<font size="20"> <center> **Popubile**
+<font size="20"> <center> Popubile
 <br><br>
-<font size="5"> <center> **HIT<br>
+<font size="5"> <center> HIT<br>
 “Introduction to data science” final project<br><br>
-By Omer Elazar**
+By Omer Elazar
 
 Full implementation:
 https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb

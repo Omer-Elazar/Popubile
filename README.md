@@ -37,7 +37,9 @@ https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb
  - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#FinalEvaluation">Final Evaluation</a>
 
 
-Abstract
+
+
+## Abstract
 
 Can you predict the popularity (hits and fans on GSMArena) of a phone knowing its brand and technical specification ?
 What makes one phone gain more attention than others? Is the brand and technical specification enough to know how popular a phone will be?

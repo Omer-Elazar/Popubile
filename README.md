@@ -1,10 +1,7 @@
-# <p align="center"> opubile</p>
-<center> Popubile </center>
-
-<br><br>
-<font size="5"> <center> HIT<br>
-“Introduction to data science” final project<br><br>
-By Omer Elazar
+# <p align="center">Popubile</p>
+### <p align="center">HIT</p>
+### <p align="center">“Introduction to data science” final project</p>
+### <p align="center">By Omer Elazar</p>
 
 Full implementation:
 https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb

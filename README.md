@@ -7,6 +7,7 @@
 # 
 Full implementation:<br>
 https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb
+# 
 <br><br>
 ## Tabel of contents
 
@@ -39,9 +40,6 @@ https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb
  - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#ComparingTheModels">Comparing The Models</a>
  - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#HyperparameterTuning">Hyperparameter Tuning</a>
  - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#FinalEvaluation">Final Evaluation</a>
-
-
-
 
 ## Abstract
 

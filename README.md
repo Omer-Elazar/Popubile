@@ -4,8 +4,8 @@ Full implementation:
 https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb
 
 
-# # Tabel of contents
-# 
+## Tabel of contents
+
 <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#abstract">Abstract</a>
 
 
@@ -15,22 +15,23 @@ https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb
 <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#dataAcquisition">Data Acquisition</a>
  - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#ScrapingGSMArena">Scraping GSMArena</a>
  - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#Gettingbrandcountries">Getting brand countries</a>
-#  - [Getting brand countries](#Gettingbrandcountries)
-#  - [Getting USD exchange rates](#GettingUSDexchangerates)
-# 
-# ### [Data Cleaning](#DataCleaning)
-#  - [Extracting numeric data](#Extractingnumericdata)
-#  - [Adding country column](#Addingcountrycolumn)
-#  - [Handling missing values](#Handlingmissingvalues)
-#  - [Dealing with outliers](#Dealingwithoutliers)
-#  
-# ### [EDA](#Eda)
-#  - [Catagorical Plots](#CatagoricalPlots)
-#  - [Maps](#Maps)
-#  - [Correlation Matrix](#CorrelationMatrix)
-# 
-# ### [Machine Learning](#MachineLearning)
-#  - [Preparing The Data](#PreparingTheData)
-#  - [Comparing The Models](#ComparingTheModels)
-#  - [Hyperparameter Tuning](#HyperparameterTuning)
-#  - [Final Evaluation](#FinalEvaluation)
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#GettingUSDexchangerates">Getting USD exchange rates</a>
+
+<a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#DataCleaning">Data Cleaning</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#Extractingnumericdata">Extracting numeric data</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#Addingcountrycolumn">Adding country column</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#Handlingmissingvalues">Handling missing values</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#Dealingwithoutliers">Dealing with outliers</a>
+
+
+<a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#Eda">EDA</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#CatagoricalPlots">Catagorical Plots</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#Maps">Maps</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#CorrelationMatrix">Correlation Matrix</a>
+
+
+<a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#MachineLearning">Machine Learning</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#PreparingTheData">Preparing The Data</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#ComparingTheModels">Comparing The Models</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#HyperparameterTuning">Hyperparameter Tuning</a>
+ - <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#FinalEvaluation">Final Evaluation</a>

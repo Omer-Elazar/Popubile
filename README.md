@@ -1,5 +1,5 @@
 <center> Popubile </center>
-<font size="20"> <center> Popubile
+
 <br><br>
 <font size="5"> <center> HIT<br>
 “Introduction to data science” final project<br><br>

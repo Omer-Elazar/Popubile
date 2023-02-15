@@ -7,11 +7,10 @@ https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb
 # # Tabel of contents
 # 
 <a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#abstract">Abstract</a>
-# 
-# ### [Importing Libraries](#ImportingLibraries)
-# 
-# ### [Data Acquisition](#dataAcquisition)
-#  - [Scraping GSMArena](#ScrapingGSMArena)
+<a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#ImportingLibraries">Importing Libraries</a>
+<a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#dataAcquisition">Data Acquisition</a>
+<a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#ScrapingGSMArena">Scraping GSMArena</a>
+<a href="https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb#Gettingbrandcountries">Getting brand countries</a>
 #  - [Getting brand countries](#Gettingbrandcountries)
 #  - [Getting USD exchange rates](#GettingUSDexchangerates)
 # 

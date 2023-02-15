@@ -9,7 +9,7 @@ https://nbviewer.org/github/Omer-Elazar/Popubile/blob/main/Popubile.ipynb
 <br><br>
 ## Abstract
 
-Can you predict the popularity (hits and fans on GSMArena) of a phone knowing its brand and technical specification ?
+Can you predict the popularity (hits and fans on GSMArena) of a phone knowing its brand and technical specification?
 What makes one phone gain more attention than others? Is the brand and technical specification enough to know how popular a phone will be?
 
 In this project I try to ansewr these questions by scraping data on 11,000 phones from GSMArena and implementing machine learning methods to try and predict the number of hits and fans a phone will get.
